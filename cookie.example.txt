@@ -1,0 +1,4 @@
+# 在此填入黑胶会员账号的 MUSIC_U Cookie（一行）
+# 获取方式：登录 music.163.com → F12 开发者工具 → Network → 复制任意请求 Cookie 中的 MUSIC_U 值
+# 例如：MUSIC_U=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+MUSIC_U=
